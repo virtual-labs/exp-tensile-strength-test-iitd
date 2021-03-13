@@ -1,4 +1,4 @@
-
+### These steps will be followed for the experiment
 **Preparation of specimens:**
 1. Specimens when received dry shall be kept in water for 48 h before they are taken for testing. Specimen shall be tested immediately on removal from the water whilst they are still wet. Surface water and grit shall be wiped off the specimens and any projecting fins removed from the surfaces which are to be in contact with the packing strips.<br><br>
 **Marking**
