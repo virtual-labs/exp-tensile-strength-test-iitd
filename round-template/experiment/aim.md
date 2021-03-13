@@ -1,0 +1,1 @@
+#### To determine the tensile strength of concrete by split tensile test as per IS:516.
