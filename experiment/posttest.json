@@ -1,0 +1,28 @@
+[{
+	"question": "1. What is the correct loading rate from the following in N/min?",
+	"answers": {
+		"a": "<img src='images/post1.png'/>",
+		"b": "<img src='images/post2.png'/>",
+		"c": "<img src='images/post3.png'/>",
+		"d": "<img src='images/post4.png'/>"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "2. The split tensile strength of the cylindrical concrete specimen is given by?",
+	"answers": {
+		"a": "<img src='images/post5.png'/>",
+		"b": "<img src='images/post6.png'/>",
+		"c": "<img src='images/post7.png'/>",
+		"d": "<img src='images/post8.png'/>"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "3. What is the orientation of failure plane in split tensile test assuming that the compressive load on the specimen is applied vertically?",
+	"answers": {
+		"a": "Horizontal",
+		"b": "Vertical",
+		"c": "20' from Vertical",
+		"d": "45' from Vertical"
+	},
+	"correctAnswer": "b"
+}]
