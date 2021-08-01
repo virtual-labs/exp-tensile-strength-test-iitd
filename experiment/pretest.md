@@ -18,7 +18,7 @@ C 10,29<br>
 
 D  9,30<br><br>
 
-Q3. Which of the following is allowed dimensions of cylindrical specimen for the split tensile test as per IS:5816? [ Diameter x Length]<br>
+Q3. Which of the following is allowed dimensions of cylindrical specimen for the split tensile test as per IS:5816? [ Diameter x Length ]<br>
 
 **A  15cm x 30cm**<br>
 
@@ -57,7 +57,7 @@ B    Rebound hammer<br>
 
 C    VICAT<br>
 
-D    flexural testing machine<br><br>
+D    Flexural testing machine<br><br>
 
 
 
