@@ -48,13 +48,11 @@ The measured splitting tensile strength f<sub>c</sub>, of the specimen shall be 
 		<td>Length, L (mm)</td>
 		<td>Diameter, D (mm)</td>
 		<td>Load, P (N)</td>
-		<td>Failure (Type A/B/ unsatisfactory)</td>
 		<td>Failure type (satisfactory/ unsatisfactory)</td>
 		<td>Split Tensile Strength (N/mm<sup>2</sup>)</td>
 	</tr>
 	<tr>
 		<td>1</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -68,7 +66,6 @@ The measured splitting tensile strength f<sub>c</sub>, of the specimen shall be 
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -77,11 +74,9 @@ The measured splitting tensile strength f<sub>c</sub>, of the specimen shall be 
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Average:</td>
-		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
