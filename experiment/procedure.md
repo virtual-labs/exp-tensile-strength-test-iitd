@@ -44,95 +44,49 @@ The measured splitting tensile strength f<sub>c</sub>, of the specimen shall be 
 
 <table align="center">
 	<tr style="font-weight:bold;">
-		<td>
-			No.
-		</td>
-		<td>
-			Length , L (mm)
-		</td>
-		<td>
-			Diameter, D (mm)
-		</td>
-		<td>
-			Load, P (N)
-		</td>
-		<td>
-			Failure (Type A/B/unsatisfactory)
-		</td>
-		<td>
-			Failure type (satisfactory/ unsatisfactory)
-		</td>
-		<td>
-			Split Tensile Strength (N/mm<sup>2</sup>)
-		</td>
+		<td>No.</td>
+		<td>Length, L (mm)</td>
+		<td>Diameter, D (mm)</td>
+		<td>Load, P (N)</td>
+		<td>Failure (Type A/B/unsatisfactory)</td>
+		<td>Failure type (satisfactory/ unsatisfactory)</td>
+		<td>Split Tensile Strength (N/mm<sup>2</sup>)</td>
 	</tr>
 	<tr>
-		<td>
-			1
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
+		<td>1</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
-		<td>
-			2
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
+		<td>2</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
-		<td>
-			3
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
+		<td>3</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
-		<td>
-			Average:
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
-		<td>			
-		</td>
+		<td>Average:</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 
