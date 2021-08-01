@@ -40,9 +40,9 @@ The fractured specimen shall be examined and the appearance of the concrete and 
 
 **Observations and Calculation:**
 
-The measured splitting tensile strength fc, of the specimen shall be calculated to the nearest 0.05 N/mm<sup>2</sup>.
+The measured splitting tensile strength f<sub>c</sub>, of the specimen shall be calculated to the nearest 0.05 N/mm<sup>2</sup>.
 
-<table>
+<table align="center">
 	<tr style="font-weight:bold;">
 		<td>
 			No.
