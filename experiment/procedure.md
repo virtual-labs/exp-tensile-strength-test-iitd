@@ -42,13 +42,13 @@ The fractured specimen shall be examined and the appearance of the concrete and 
 
 The measured splitting tensile strength f<sub>c</sub>, of the specimen shall be calculated to the nearest 0.05 N/mm<sup>2</sup>.
 
-<table align="center">
+<table style="text-align:left;">
 	<tr style="font-weight:bold;">
 		<td>No.</td>
 		<td>Length, L (mm)</td>
 		<td>Diameter, D (mm)</td>
 		<td>Load, P (N)</td>
-		<td>Failure (Type A/B/unsatisfactory)</td>
+		<td>Failure (Type A/B/ unsatisfactory)</td>
 		<td>Failure type (satisfactory/ unsatisfactory)</td>
 		<td>Split Tensile Strength (N/mm<sup>2</sup>)</td>
 	</tr>
