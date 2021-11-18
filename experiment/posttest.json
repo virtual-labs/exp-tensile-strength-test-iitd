@@ -1,19 +1,19 @@
 [{
 	"question": "1. What is the correct loading rate from the following in N/min?",
 	"answers": {
-		"a": "<img src='images/post1.png'/>",
-		"b": "<img src='images/post2.png'/>",
-		"c": "<img src='images/post3.png'/>",
-		"d": "<img src='images/post4.png'/>"
+		"a": "<img src='images/post1.png' style='height: 50px;'/>",
+		"b": "<img src='images/post2.png' style='height: 50px;'/>",
+		"c": "<img src='images/post3.png' style='height: 50px;'/>",
+		"d": "<img src='images/post4.png' style='height: 50px;'/>"
 	},
 	"correctAnswer": "a"
 }, {
 	"question": "2. The split tensile strength of the cylindrical concrete specimen is given by?",
 	"answers": {
-		"a": "<img src='images/post5.png'/>",
-		"b": "<img src='images/post6.png'/>",
-		"c": "<img src='images/post7.png'/>",
-		"d": "<img src='images/post8.png'/>"
+		"a": "<img src='images/post5.png' style='height: 52px;'/>",
+		"b": "<img src='images/post6.png' style='height: 52px;'/>",
+		"c": "<img src='images/post7.png' style='height: 52px;'/>",
+		"d": "<img src='images/post8.png' style='height: 52px;'/>"
 	},
 	"correctAnswer": "a"
 }, {
