@@ -752,7 +752,7 @@ function showmoveclk()
                 }, stepTime);
         }
 
-        animateValue("value", 0, 103, 2000);
+        animateValue("value", 0, 75, 2000);
         /*Countdown Timer Animation Code End*/
         document.getElementById("press1").style.visibility="visible";
         document.getElementById("press2").style.visibility="visible";
@@ -1027,7 +1027,7 @@ function showmoveclk1()
                 }, stepTime);
         }
 
-        animateValue("value1", 0, 103, 2000);
+        animateValue("value1", 0, 88, 2000);
         /*Countdown Timer Animation Code End*/
         document.getElementById("press1a").style.visibility="visible";
         document.getElementById("press2a").style.visibility="visible";
@@ -1188,7 +1188,7 @@ function showmoveclk2()
                 }, stepTime);
         }
 
-        animateValue("value2", 0, 103, 2000);
+        animateValue("value2", 0, 71, 2000);
         /*Countdown Timer Animation Code End*/
         document.getElementById("press1b").style.visibility="visible";
         document.getElementById("press2b").style.visibility="visible";
@@ -1344,7 +1344,7 @@ function showmoveclk3()
                 }, stepTime);
         }
 
-        animateValue("value3", 0, 103, 2000);
+        animateValue("value3", 0, 66, 2000);
         /*Countdown Timer Animation Code End*/
         document.getElementById("press1c").style.visibility="visible";
         document.getElementById("press2c").style.visibility="visible";
@@ -1491,10 +1491,15 @@ function ShowLF()
     document.getElementById("csft7").innerHTML = "Unsatisfactory";
     document.getElementById("csft8").innerHTML = "Satisfactory";
 
-    csval1 = (2*132.5)/Math.PI*150*300;
-    csval2 = (2*176.0)/Math.PI*150*300;
-    csval3 = (2*140.2)/Math.PI*150*300;
-    csval4 = (2*150.5)/Math.PI*150*300;
+    // csval1 = (2*132.5)/Math.PI*150*300;
+    // csval2 = (2*176.0)/Math.PI*150*300;
+    // csval3 = (2*140.2)/Math.PI*150*300;
+    // csval4 = (2*150.5)/Math.PI*150*300;
+
+    csval1 = 1.87;
+    csval2 = 2.49;
+    csval3 = 1.98;
+    csval4 = 2.13;
 
     document.getElementById("csf1").innerHTML = csval1;
     document.getElementById("csf2").innerHTML = csval2;
@@ -1598,12 +1603,13 @@ function ShowLFinalRes()
     {
     document.getElementById("fcsft1").innerHTML = csval1;
     document.getElementById("fcsft2").innerHTML = csval2;
-    document.getElementById("fcsft3").innerHTML = csval3;
+    document.getElementById("fcsft3").innerHTML = "-";
     document.getElementById("fcsft4").innerHTML = csval4;
 
-    csval5 = (csval1 + csval2 + csval3 + csval4)/4;
-
-    document.getElementById("avg2").innerHTML = csval5;
+    csval5 = (csval1 + csval2 + csval4)/3;
+ 			var x2= csval5;
+            printcsval2 = x2.toFixed(2);
+    document.getElementById("avg2").innerHTML = printcsval2;
      
     document.getElementById("flfstep").style.visibility="visible";
     document.getElementById("arrow11").style.visibility="visible";
@@ -1687,7 +1693,7 @@ document.getElementById("ft1").innerHTML= "Satisfactory";
 // document.getElementById("v1").innerHTML= "-";
 document.getElementById("fs1").innerHTML= csval1;
             var x2= csval5;
-            printavg2 = x2.toFixed(6);
+            printavg2 = x2.toFixed(2);
 document.getElementById("av1").innerHTML= printavg2;
 
 document.getElementById("im2").innerHTML= "N/A";
@@ -1718,7 +1724,7 @@ document.getElementById("td4").innerHTML = logo;
 document.getElementById("ml4").innerHTML= "132.5";
 document.getElementById("ft4").innerHTML= "Satisfactory";
 // document.getElementById("v3").innerHTML= "-";
-document.getElementById("fs4").innerHTML= csval3;
+document.getElementById("fs4").innerHTML= csval4;
 // document.getElementById("av3").innerHTML= "N/A";
 //document.getElementById("cubedatehidden").style.visibility="visible";
     /*document.getElementById("res1").innerHTML = "N/A";
