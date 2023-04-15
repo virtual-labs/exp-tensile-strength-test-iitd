@@ -1,0 +1,78 @@
+
+/home/runner/work/exp-tensile-strength-test-iitd/exp-tensile-strength-test-iitd/experiment/simulation/main.js
+     1:10  warning  'navNext1' is defined but never used             no-unused-vars
+    13:10  warning  'navNext2' is defined but never used             no-unused-vars
+    47:10  warning  'navNext3' is defined but never used             no-unused-vars
+    70:10  warning  'navNext3a' is defined but never used            no-unused-vars
+    91:10  warning  'navNext4' is defined but never used             no-unused-vars
+   113:10  warning  'navNext5' is defined but never used             no-unused-vars
+   154:10  warning  'navNext6' is defined but never used             no-unused-vars
+   174:10  warning  'navNext61' is defined but never used            no-unused-vars
+   201:10  warning  'navNext6a' is defined but never used            no-unused-vars
+   222:10  warning  'navNext62' is defined but never used            no-unused-vars
+   250:10  warning  'navNext6b' is defined but never used            no-unused-vars
+   269:10  warning  'navNext63' is defined but never used            no-unused-vars
+   294:10  warning  'navNext6c' is defined but never used            no-unused-vars
+   316:10  warning  'navNext64' is defined but never used            no-unused-vars
+   335:10  warning  'navNext7' is defined but never used             no-unused-vars
+   347:10  warning  'navNext8' is defined but never used             no-unused-vars
+   356:10  warning  'navNext9' is defined but never used             no-unused-vars
+   427:10  warning  'agesizeIn' is defined but never used            no-unused-vars
+   515:10  warning  'tunnu' is defined but never used                no-unused-vars
+   546:10  warning  'movecube' is defined but never used             no-unused-vars
+   558:10  warning  'mcurcube1' is defined but never used            no-unused-vars
+   570:10  warning  'mcurcube2' is defined but never used            no-unused-vars
+   583:10  warning  'movecloth' is defined but never used            no-unused-vars
+   607:10  warning  'isInputNumber' is defined but never used        no-unused-vars
+   623:10  warning  'movecube1' is defined but never used            no-unused-vars
+   678:10  warning  'movecube3' is defined but never used            no-unused-vars
+   696:10  warning  'movecube4' is defined but never used            no-unused-vars
+   707:10  warning  'showbigclk' is defined but never used           no-unused-vars
+   725:10  warning  'showmoveclk' is defined but never used          no-unused-vars
+   738:9   warning  Move function declaration to function body root  no-inner-declarations
+   779:9   warning  Move function declaration to function body root  no-inner-declarations
+   830:10  warning  'stopmoveclk' is defined but never used          no-unused-vars
+   859:10  warning  'soneIn' is defined but never used               no-unused-vars
+   882:10  warning  'stwoIn' is defined but never used               no-unused-vars
+   906:10  warning  'sthreeIn' is defined but never used             no-unused-vars
+   931:10  warning  'sfourIn' is defined but never used              no-unused-vars
+   956:10  warning  'factory222' is defined but never used           no-unused-vars
+   962:10  warning  'factory1111' is defined but never used          no-unused-vars
+   969:10  warning  'factory2222' is defined but never used          no-unused-vars
+   982:10  warning  'showbigclk1' is defined but never used          no-unused-vars
+  1000:10  warning  'showmoveclk1' is defined but never used         no-unused-vars
+  1013:9   warning  Move function declaration to function body root  no-inner-declarations
+  1054:9   warning  Move function declaration to function body root  no-inner-declarations
+  1105:10  warning  'stopmoveclk1' is defined but never used         no-unused-vars
+  1143:10  warning  'showbigclk2' is defined but never used          no-unused-vars
+  1161:10  warning  'showmoveclk2' is defined but never used         no-unused-vars
+  1174:9   warning  Move function declaration to function body root  no-inner-declarations
+  1215:9   warning  Move function declaration to function body root  no-inner-declarations
+  1266:10  warning  'stopmoveclk2' is defined but never used         no-unused-vars
+  1299:10  warning  'showbigclk3' is defined but never used          no-unused-vars
+  1317:10  warning  'showmoveclk3' is defined but never used         no-unused-vars
+  1330:9   warning  Move function declaration to function body root  no-inner-declarations
+  1371:9   warning  Move function declaration to function body root  no-inner-declarations
+  1422:10  warning  'stopmoveclk3' is defined but never used         no-unused-vars
+  1478:5   warning  'logorep' is assigned a value but never used     no-unused-vars
+  1480:10  warning  'ShowLF' is defined but never used               no-unused-vars
+  1541:10  warning  'ShowLoadRes' is defined but never used          no-unused-vars
+  1600:10  warning  'ShowLFinalRes' is defined but never used        no-unused-vars
+  1610:1   warning  Mixed spaces and tabs                            no-mixed-spaces-and-tabs
+  1611:13  warning  'printcsval2' is not defined                     no-undef
+  1612:49  warning  'printcsval2' is not defined                     no-undef
+  1661:10  warning  'Showrep' is defined but never used              no-unused-vars
+  1696:13  warning  'printavg2' is not defined                       no-undef
+  1697:43  warning  'printavg2' is not defined                       no-undef
+  1739:60  warning  'size' is not defined                            no-undef
+  1750:43  warning  'rapt' is not defined                            no-undef
+  1751:17  warning  'x2' is already defined                          no-redeclare
+  1751:21  warning  'printavg' is not defined                        no-undef
+  1752:13  warning  'printavg2' is not defined                       no-undef
+  1754:43  warning  'printavg2' is not defined                       no-undef
+  1762:43  warning  'rapt2' is not defined                           no-undef
+  1771:43  warning  'rapt3' is not defined                           no-undef
+  1783:10  warning  'reset' is defined but never used                no-unused-vars
+
+✖ 73 problems (0 errors, 73 warnings)
+
